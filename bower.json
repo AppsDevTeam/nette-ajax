@@ -1,0 +1,12 @@
+{
+	"name": "adt-nette-ajax",
+	"license": "MIT",
+	"keywords": ["nette", "ajax", "jquery"],
+	"ignore": [
+		"CONTRIBUTING.md",
+		"README.md"
+	],
+	"dependencies": {
+		"nette.ajax.js": "~2.0"
+	}
+}
