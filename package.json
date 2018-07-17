@@ -1,0 +1,24 @@
+{
+  "name": "adt-nette-ajax",
+  "version": "1.0.0",
+  "description": "#### Dependencies",
+  "main": "extensions/live.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AppsDevTeam/nette-ajax.git"
+  },
+  "keywords": [
+    "nette",
+    "ajax",
+    "jquery"
+  ],
+  "author": "ADT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AppsDevTeam/nette-ajax/issues"
+  },
+  "homepage": "https://github.com/AppsDevTeam/nette-ajax#readme"
+}
